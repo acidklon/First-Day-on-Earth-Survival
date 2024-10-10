@@ -1,0 +1,18 @@
+{
+    "name": "Watermelon.DuoTypes.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ef8d42ef38fbfe04bbb28c41fd01fc91"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

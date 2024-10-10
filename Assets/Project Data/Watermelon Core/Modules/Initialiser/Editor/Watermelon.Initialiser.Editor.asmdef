@@ -1,0 +1,20 @@
+{
+    "name": "Watermelon.Initialiser.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9179da058fa7f1c479b33c0ede07108e",
+        "GUID:1a6e2604ff3b04a4ca454e3fa0128d1d",
+        "GUID:b144dfb63303ab24680905ee1a718def"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

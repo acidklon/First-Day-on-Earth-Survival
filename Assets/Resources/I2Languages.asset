@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: UPGRADES
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0423\u041B\u0423\u0427\u0428\u0415\u041D\u0418\u042F"
+      - UPGRADES
+      Flags: 0000
+      Languages_Touch: []
+    - Term: INVENTORY
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0418\u041D\u0412\u0415\u041D\u0422\u0410\u0420\u042C"
+      - INVENTORY
+      Flags: 0000
+      Languages_Touch: []
+    - Term: SELL ALL
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041F\u0420\u041E\u0414\u0410\u0422\u042C \u0412\u0421\u0401"
+      - SELL ALL
+      Flags: 0000
+      Languages_Touch: []
+    - Term: INVENTORY IS EMPTY
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0412 \u0418\u041D\u0412\u0415\u041D\u0422\u0410\u0420\u0415 \u041F\u0423\u0421\u0422\u041E"
+      - INVENTORY IS EMPTY
+      Flags: 0000
+      Languages_Touch: []
+    - Term: STORE
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041C\u0410\u0413\u0410\u0417\u0418\u041D"
+      - STORE
+      Flags: 0000
+      Languages_Touch: []
+    - Term: STARTER PACK
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0421\u0422\u0410\u0420\u0422\u041E\u0412\u042B\u0419 \u041D\u0410\u0411\u041E\u0420"
+      - STARTER PACK
+      Flags: 0000
+      Languages_Touch: []
+    - Term: PIRATE OUTFIT
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041F\u0418\u0420\u0410\u0422\u0421\u041A\u0418\u0419 \u041A\u041E\u0421\u0422\u042E\u041C"
+      - PIRATE OUTFIT
+      Flags: 0000
+      Languages_Touch: []
+    - Term: PAUSE
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041F\u0410\u0423\u0417\u0410"
+      - PAUSE
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Sound
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0417\u0432\u0443\u043A"
+      - Sound
+      Flags: 0000
+      Languages_Touch: []
+    - Term: MISSION COMPLETE
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0417\u0410\u0414\u0410\u041D\u0418\u0415 \u0412\u042B\u041F\u041E\u041B\u041D\u0415\u041D\u041E"
+      - MISSION COMPLETE
+      Flags: 0000
+      Languages_Touch: []
+    - Term: SELL
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041F\u0420\u041E\u0414\u0410\u0422\u042C"
+      - SELL
+      Flags: 0000
+      Languages_Touch: []
+    - Term: MAX
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041C\u0410\u041A\u0421."
+      - MAX
+      Flags: 0000
+      Languages_Touch: []
+    - Term: LETS GO!
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041F\u041E\u0415\u0425\u0410\u041B\u0418!"
+      - LETS GO!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: 'Note: you won''t be able to return'
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0417\u0430\u043C\u0435\u0442\u043A\u0430: \u0432\u044B \u043D\u0435 \u0441\u043C\u043E\u0436\u0435\u0442\u0435
+        \u0432\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043E\u0431\u0440\u0430\u0442\u043D\u043E"
+      - 'Note:  you won''t be able to return'
+      Flags: 0000
+      Languages_Touch: []
+    - Term: LEAVE THE ISLAND?
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041F\u043E\u043A\u0438\u043D\u0443\u0442\u044C \u043E\u0441\u0442\u0440\u043E\u0432?"
+      - 'LEAVE
+
+        THE ISLAND?'
+      Flags: 0000
+      Languages_Touch: []
+    - Term: FULL!
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u041C\u0410\u041A\u0421.!"
+      - FULL!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0420\u0410\u0417\u0411\u041B\u041E\u041A\u0418\u0420\u041E\u0412\u0410\u0422\u042C"
+      - UNLOCK
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: Localization.txt
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

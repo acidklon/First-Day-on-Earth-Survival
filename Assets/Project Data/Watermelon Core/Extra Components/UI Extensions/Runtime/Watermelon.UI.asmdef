@@ -1,0 +1,20 @@
+{
+    "name": "Watermelon.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:320a7f1e3dd30bf4dbb1ac85ea51c249",
+        "GUID:9179da058fa7f1c479b33c0ede07108e",
+        "GUID:cacd7023db65a98459e7ad4734b83c07",
+        "GUID:7d03b893fffeac94c8bf05f3d82611ff",
+        "GUID:ef8d42ef38fbfe04bbb28c41fd01fc91"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

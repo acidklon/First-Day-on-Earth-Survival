@@ -1,0 +1,19 @@
+{
+    "name": "Watermelon.Save.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e146210468693ae459544675502edaed",
+        "GUID:b144dfb63303ab24680905ee1a718def"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

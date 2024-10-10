@@ -1,0 +1,19 @@
+{
+    "name": "Watermelon.Pool.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7d03b893fffeac94c8bf05f3d82611ff",
+        "GUID:b144dfb63303ab24680905ee1a718def"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

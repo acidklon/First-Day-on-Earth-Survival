@@ -1,0 +1,20 @@
+{
+    "name": "Watermelon.Reward.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa8b24325813776499788b10531572eb",
+        "GUID:b144dfb63303ab24680905ee1a718def",
+        "GUID:9179da058fa7f1c479b33c0ede07108e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Watermelon.Save",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9179da058fa7f1c479b33c0ede07108e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

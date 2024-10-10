@@ -1,0 +1,19 @@
+{
+    "name": "Watermelon.Haptic",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9179da058fa7f1c479b33c0ede07108e",
+        "GUID:ef8d42ef38fbfe04bbb28c41fd01fc91",
+        "GUID:320a7f1e3dd30bf4dbb1ac85ea51c249",
+        "GUID:e146210468693ae459544675502edaed"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
